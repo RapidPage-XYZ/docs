@@ -25,7 +25,7 @@ export const navigation = [
         title: 'OAuth',
         href: '/docs/oauth',
       },
-      { title: 'Subscription', href: '/docs/subscription' },
+      { title: 'Subscriptions', href: '/docs/subscriptions' },
       {
         title: 'SEO',
         href: '/docs/seo',
