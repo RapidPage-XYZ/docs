@@ -31,7 +31,7 @@ export const navigation = [
         href: '/docs/seo',
       },
       { title: 'Theme', href: '/docs/theme' },
-      { title: 'Legal with ChatGPT', href: '/docs/legal' },
+      { title: 'Legal', href: '/docs/legal' },
     ],
   },
   {
