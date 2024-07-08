@@ -112,8 +112,3 @@ const navigation = {
 };
 </script>
 ```
-
-{% callout title="More components are in the making!" %}
-We currently only have one Faqs component available, but we are working on adding more components to the RapidPage App Starter Kit. Stay tuned for updates!
-{% /callout %}
-
