@@ -83,5 +83,3 @@ import SidebarProfileNavLink from "@/Components/Links/SidebarProfileNavLink.vue"
 
 If the user is logged in, it will display the user's username. If the user is not logged in, it will display a login button.
 
----
-
