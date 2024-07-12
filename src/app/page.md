@@ -6,13 +6,13 @@ Learn how to get the RapidPage App Starter kit set up for your next project. {% 
 
 {% quick-links %}
 
-{% quick-link title="Installation" icon="installation" href="/docs/installation" description="Step-by-step guides to setting up and installing the starter kit." /%}
+{% quick-link title="Quick Start" icon="installation" href="/docs/tutorials/quick-start" description="Get started with the RapidPage App Starter kit in no time." /%}
 
-{% quick-link title="Features" icon="presets" href="/" description="Learn all about the features RapidPage starter kit has to offer." /%}
+{% quick-link title="Features" icon="presets" href="/docs/admin" description="Learn all about the features RapidPage starter kit has to offer." /%}
 
-{% quick-link title="Subscriptions" icon="plugins" href="/" description="Learn to easily create and customize Stripe Subscription for you app." /%}
+{% quick-link title="Subscriptions" icon="plugins" href="/docs/subscriptions" description="Learn to easily create and customize Stripe Subscription for you app." /%}
 
-{% quick-link title="Components" icon="theming" href="/" description="A list of all components that RapidPage starter has to offer." /%}
+{% quick-link title="Components" icon="theming" href="/docs/components/dashboard" description="A list of all components that RapidPage starter has to offer." /%}
 
 {% /quick-links %}
 
