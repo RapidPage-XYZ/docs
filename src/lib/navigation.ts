@@ -22,8 +22,8 @@ export const navigation = [
     links: [
       { title: 'Admin dashboard', href: '/docs/admin' },
       {
-        title: 'OAuth',
-        href: '/docs/oauth',
+        title: 'Authentication',
+        href: '/docs/authentication',
       },
       { title: 'Subscriptions', href: '/docs/subscriptions' },
       {
