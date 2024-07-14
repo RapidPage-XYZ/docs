@@ -7,6 +7,11 @@ import { Providers } from '@/app/providers'
 import { Layout } from '@/components/Layout'
 
 import '@/styles/tailwind.css'
+import dynamic from 'next/dynamic'
+
+const PostHogPageView = dynamic(() => import('./PostHogPageView'), {
+  ssr: false,
+})
 
 const inter = Inter({
   subsets: ['latin'],
@@ -43,6 +48,7 @@ export default function RootLayout({
     >
       <body className="flex min-h-full bg-white dark:bg-slate-900">
         <Providers>
+          <PostHogPageView />
           <Layout>{children}</Layout>
         </Providers>
       </body>
